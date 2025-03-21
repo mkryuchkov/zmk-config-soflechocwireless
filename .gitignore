@@ -1,3 +1,6 @@
 firmware*.zip
 case/**
 keycaps/**
+.west/**
+.venv/**
+zephyr/**
